@@ -8,7 +8,7 @@ import ProductDetails from "./containers/ProductDetails";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename={import.meta.env.BASE_URL}>
         <Header />
         <Routes>
           <Route path="/" element={<ProductListing />} />

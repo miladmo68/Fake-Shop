@@ -1,67 +1,61 @@
-<h1 align="center">🛍️ Fake-Shop</h1>
+<div align="center">
+
+# 🛍️ Fake Shop
+
+A product catalog with detail pages, built with React Router and Redux, using the Fake Store API.
+
+<a href="https://miladmo68.github.io/Fake-Shop/"><img src="https://img.shields.io/badge/Live_Demo-Open_Site-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/miladmo68/Fake-Shop"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+**🔗 Live:** [miladmo68.github.io/Fake-Shop](https://miladmo68.github.io/Fake-Shop/)
+
+</div>
 
 <p align="center">
-  <a href="https://miladmo68.github.io/Shopping-Cart/"><b>🔗 Live Demo</b></a> •
-  <a href="https://github.com/miladmo68/Fake-Shop"><b>📦 Repository</b></a>
+  <img src="./.github/preview.jpg" alt="Fake Shop screenshot" width="100%" />
 </p>
-
-<p align="center">
-  A minimal React + Vite starter template providing fast development with HMR and pre-configured ESLint — ready to extend into a functional fake shop or e-commerce front-end.
-</p>
-
----
-
-## 📸 Screenshot
-
-<p align="center">
-<img width="1920" height="869" alt="SHOPPING-CART" src="https://github.com/user-attachments/assets/5660d327-5741-43d2-84ce-cba81fa059d6" />
-
-  
-  </p>
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-latest-orange?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-configured-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-setup-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-</p>
-
----
 
 ## ✨ Features
 
-| Feature | Description |
-| --- | --- |
-|  **Fast Development** | Vite-powered build with hot module replacement (HMR) |
-|  **Clean Template** | Ready-to-use React + Vite base for rapid prototyping |
-|  **Code Quality Setup** | ESLint (with recommended configuration) and Prettier are pre-configured |
-|  **Extensible** | Great starting point to build a full-fledged e-commerce interface or showcase product layouts |
+- Product listing
+- Product details page
+- Redux for products state
 
----
+## 🛠️ Tech Stack
 
-<p align="center">
-  <b>👨‍💻 Author: Milad Mohammadi</b><br>
-  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
----
+## 🚀 Getting Started
 
-## 🛠 Getting Started
+**Prerequisites:** [Node.js](https://nodejs.org/) 18 or newer
+
+**Install and run**
 
 ```bash
-# 1) Clone the repository
 git clone https://github.com/miladmo68/Fake-Shop.git
 cd Fake-Shop
-
-# 2) Install dependencies
 npm install
-
-# 3) Run development server
 npm run dev
+```
 
-# 4) Build for production
-npm run build
+## 📁 Project Structure
+
+```
+Fake-Shop/
+├── src/
+├── eslint.config.js
+├── index.html
+├── package.json
+└── vite.config.js
+```
+
+## 👤 Author
+
+**Milad Mohammadi** — Frontend-Focused Full-Stack Developer, Toronto 🇨🇦
+
+[![Website](https://img.shields.io/badge/Website-miladweb.com-FF6A00?style=flat-square&logo=googlechrome&logoColor=white)](https://miladweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miladmo68-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladmo68/)
+[![GitHub](https://img.shields.io/badge/GitHub-miladmo68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miladmo68)
+
+<p align="center"><sub>If you like this project, consider giving it a ⭐</sub></p>
